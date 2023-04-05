@@ -1,3 +1,5 @@
+[![Daily Build](https://github.com/djredman99/gh-repo-bestpractice-demo/actions/workflows/daily.yml/badge.svg)](https://github.com/djredman99/gh-repo-bestpractice-demo/actions/workflows/daily.yml)
+
 <img src="/contributing/images/awesome_project.jpg" width="600" height="300" />
 
 # Welcome to AWESOME PROJECT
