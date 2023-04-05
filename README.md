@@ -1,6 +1,6 @@
 [![Daily Build](https://github.com/djredman99/gh-repo-bestpractice-demo/actions/workflows/daily.yml/badge.svg)](https://github.com/djredman99/gh-repo-bestpractice-demo/actions/workflows/daily.yml)
 
-<img src="/contributing/images/awesome_project.jpg" width="700" height="350" />
+<img src="/images/awesome_project.jpg" width="700" height="350" />
 
 # Welcome to AWESOME PROJECT
 
@@ -19,7 +19,7 @@ AWESOME PROJECT is GDK (Graphics Development Kit) that provides core functionali
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 
-At any time, you can click the <img src="/contributing/images/table-of-contents.png" width="25" height="25" /> at the top-right of this document to view the Table of Contents.
+At any time, you can click the <img src="/images/table-of-contents.png" width="25" height="25" /> at the top-right of this document to view the Table of Contents.
 
 ## Getting Started
 
