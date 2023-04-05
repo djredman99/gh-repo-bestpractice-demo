@@ -69,13 +69,16 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPL 3.0 license  - see the [LICENSE.md](LICENSE.md) file for details
+
+[![License](https://img.shields.io/github/license/djredman99/gh-repo-bestpractice-demo)](https://github.com/djredman99/gh-repo-bestpractice-demo/license.md)
 
 ## Contact
 
 Your Name - your.email@example.com
 
-Project Link: [Project Board](https://github.com/djredman99/gh-repo-bestpractice-demo)
+For insight as to what the Core team is currenlty working on, please view our public backlog
+Project Link: [Project Board](https://github.com/djredman99/gh-repo-bestpractice-demo/)
 
 ## Acknowledgments
 
