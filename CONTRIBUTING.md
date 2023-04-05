@@ -38,7 +38,7 @@ Changes that are cosmetic in nature and do not add anything substantial to the s
 
 #### **Do you want to contribute to the AWESOME PROJECT documentation?**
 
-* Please read [Contributing to the Rails Documentation](https://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html#contributing-to-the-rails-documentation).
+* Please read [Contributing to the AWESOME PROJECT Documentation](https://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html#contributing-to-the-rails-documentation).
 
 AWESOME PROJECT is owned by the Awesome Dev Team. We encourage you to pitch in and join [the team discussions](https://contributors.rubyonrails.org)!
 
