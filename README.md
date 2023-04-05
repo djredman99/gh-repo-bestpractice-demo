@@ -37,6 +37,19 @@ Explain how to use your project for various use cases or scenarios
 
 End with an example of getting some data out of the system or using it for a little demo
 
+## Setting up a development environment
+
+### Using Codespaces
+AWESOME PROJECT has defined a Codespace development environment that uses a custom Docker image and provides a ready to deploy, instantaneous, VS Code environent.  No configuration is necessary as it is all defined within the devcontainer.json file in this repository.  All you have to do to start development is create a new Codespace in this repository and start coding.
+
+### Setting up your own dev environment
+In order to develop locally, you can still run the above Codespace from your local copy of VS Code or Visual Studio, or you can create the environment on your own machine.  To create your own environemnt you will want to:
+
+1. Pick the development tool of your choice and install it on your machine.  AWESOME PROJECT can be developed with VS CODE or Visual Studio 2019 (and above)
+2. Install the prerequisites as described above
+3. Additionally, you will need to install
+   - Tool A
+   - Tool B
 
 ## Running Tests
 
