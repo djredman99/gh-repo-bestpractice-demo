@@ -77,8 +77,8 @@ This project is licensed under the GPL 3.0 license  - see the [LICENSE.md](LICEN
 
 Your Name - your.email@example.com
 
-For insight as to what the Core team is currenlty working on, please view our public backlog
-Project Link: [Project Board](https://github.com/djredman99/gh-repo-bestpractice-demo/)
+For insight as to what the Core team is currenlty working on, please view our public backlog.  
+Project Link: [Project Board](https://github.com/users/djredman99/projects/3/views/1)
 
 ## Acknowledgments
 
