@@ -19,6 +19,8 @@ AWESOME PROJECT is GDK (Graphics Development Kit) that provides core functionali
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 
+At any time, you can click the <img src="/contributing/images/table-of-contents.png" width="25" height="25" /> at the top-right of this document to view the Table of Contents.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
