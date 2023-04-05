@@ -5,15 +5,16 @@
 # the repo. Unless a later match takes precedence,
 # @global-owner1 and @global-owner2 will be requested for
 # review when someone opens a pull request.
-*       @djredman99 @global-owner2
+*       @djredman99
 
 # The `docs/*` pattern will override the global owners
 # for the docs/ directory
-docs/*  @docs-team
+
+# docs/*  @docs-team
 
 # You can also use email addresses if you prefer.
-*.js    user@example.com @js-owner
+# *.js    user@example.com @js-owner
 
 # You can use the `*` wildcard to match any character in a path segment.
 # For example, `octocat*` will match `octocat.png`, `octocat.gif`, etc.
-octocat*  @octocat
+# octocat*  @octocat
