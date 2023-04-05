@@ -10,7 +10,7 @@ A [README file](https://docs.github.com/en/enterprise-cloud@latest/repositories/
 - Who maintains and contributes to the project
 - Any other relevant details or links
 
-<img src="/docs/2023-april-fasttrack/readme-sample.png" width="500" height="700">
+<img src="/images/readme-sample.png" width="500" height="700">
 
 You can use [GitHub Flavored Markdown](https://docs.github.com/en/enterprise-cloud@latest/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to format your README file and add headings, lists, code blocks, images, links, and more. You can also use section links to create a table of contents for your README file. 
 
@@ -25,7 +25,7 @@ A [CONTRIBUTING file](https://docs.github.com/en/enterprise-cloud@latest/communi
 
 You can create a CONTRIBUTING.md file in your repository's root, docs, or .github folder, and **GitHub will display a link to it when someone opens a pull request or an issue**.  
 
-<img src="/docs/2023-april-fasttrack/contribute-link.png" width="800" height="350"/>
+<img src="/images/contribute-link.png" width="800" height="350"/>
 
 Additionally, **YOU SHOULD include a link to the CONTRIBUTING file from your Repository README file** as this will provide greater visibility to how you want others to contribute, and will be information they are presented immediately. You can also create a default CONTRIBUTING.md file for your organization or personal account, and GitHub will use it for any repository that does not have its own file of that type. 
 
@@ -45,7 +45,7 @@ For each branch protection rule, you can choose to enable or disable various set
 
 Only admins of a repository can create, edit, or delete a branch protection rule.  These rules will be located under the settings of the repository, under _Branches_.
 
-<img src="/docs/2023-april-fasttrack/branch-protections.png" width="800" height="350"/>
+<img src="/images/branch-protections.png" width="800" height="350"/>
 
 ## Having greater visibility over proposed changes by identifying Codeowners
 [CODEOWNERS](https://docs.github.com/en/enterprise-cloud@latest/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) is a file that defines individuals or teams that are responsible for code in a repository. Code owners can be automatically requested for review when someone opens a pull request that modifies code that they own by applying the associated setting of a [Branch Protection Rule](#Setting-up-Branch-Protections). 
