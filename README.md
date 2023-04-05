@@ -1,4 +1,5 @@
-![image](contributing\images\awesome-project-small)
+<img src="/contributing/images/awesome_project.jpg" width="600" height="300" />
+
 # Welcome to AWESOME PROJECT
 
 AWESOME PROJECT is GDK (Graphics Development Kit) that provides core functionality to all of our Studios games and is responsible for all of the System I/O, Networking, and Licensing of those games.  All of our games will require the use of AWESOME PROJECT to successfully integrate to our custom hardware and backend services.
